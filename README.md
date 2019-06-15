@@ -3,6 +3,6 @@ Using sklearn.datasets iris flower dataset to train our model using logistic reg
 
 The provided machine learning model uses the principles of Multiclass Logistic Regression where the model is trained using the previously captured data and then used to predict the type of flower using the model on the data provided by the Iris dataset. 
 
-## Files Provided ## :
+## Files Provided  :
        1- main.ipynb : Contains the necessary python code and the outputs in a Jupyter Notebook where the data is fit into a suitable model to execute Multiclass Logistic Regression.
        2- analysis.ipynb : Contains the necessary python codes for indepth analysis of the iris data set.
